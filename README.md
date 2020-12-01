@@ -5,7 +5,7 @@ Free and open-source Proxmox VE API VM management service. Full control panel fo
 Because fuck big corporations
 
 ### DKWTCT (Don't know what to call this)
-ASP.NET Core MVC/Web API application writen in .NET 5, all documented using Swagger. Built with Identity Server4 and Microsoft Identity to manage credentials and user data. Easily migrateable to these (database providers)[https://docs.microsoft.com/en-us/ef/core/providers/] with the help of Entity Framework Core.
+ASP.NET Core MVC/Web API application writen in .NET 5, all documented using Swagger. Built with Identity Server4 and Microsoft Identity to manage credentials and user data. Easily migrateable to these [database providers](https://docs.microsoft.com/en-us/ef/core/providers/) with the help of Entity Framework Core.
 
 ## Todo
 
